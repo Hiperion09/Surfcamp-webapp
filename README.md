@@ -8,7 +8,7 @@ This project uses NEXT JS capabilities to develop the frontend and connect to th
 uses strapi to manage the main content of the application, this brings the flexibility to use a Headless CMS that
 helps to control and create the data in a easier way for the client.
 
-## Demo
+## Video Demo
 
 [![Watch the video](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/1_ouxnkd.jpg)](https://youtu.be/8CAtbbg_OOw)
 
