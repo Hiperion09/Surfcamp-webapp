@@ -14,8 +14,12 @@ helps to control and create the data in a easier way for the client.
 
 ## Gallery
 
-| ![Image 1](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/1_ouxnkd.jpg) | ![Image 2](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759357/surfcamp/3_vstqil.jpg) |
+| ![Captura 1](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/1_ouxnkd.jpg) | ![Captura 2](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759357/surfcamp/3_vstqil.jpg) |
 |:--------------------------------:|:--------------------------------:|
-| Image 1                        | Image 2                        |
-| ![Image 3](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759355/surfcamp/2_mw088i.jpg) | ![Image 4](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759355/surfcamp/4_r6woy1.jpg) |
-| Image 3                        | Image 4                        |
+| Captura 1                        | Captura 2                        |
+| ![Captura 3](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759355/surfcamp/2_mw088i.jpg) | ![Captura 4](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759355/surfcamp/4_r6woy1.jpg) |
+| Captura 3                        | Captura 4                        |
+| ![Captura 5](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/5_sosjzf.jpg) | ![Captura 6](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/6_r1ly7n.jpg) |
+| Captura 5                        | Captura 6                        |
+| ![Captura 7](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/7_jc2icc.jpg) | ![Captura 8](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721759354/surfcamp/8_e2fwxx.jpg) |
+| Captura 7                        | Captura 8                        |
